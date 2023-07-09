@@ -7,6 +7,9 @@
   "scripts": {
     "start": "nodemon index.js"
   },
+  "engines": {
+    "node": ">=NODE_JS_VERSION"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
